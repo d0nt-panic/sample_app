@@ -13,10 +13,6 @@ class PagesController < ApplicationController
 
   def help
   	@title = "Help"
-<<<<<<< HEAD
-  	
-=======
->>>>>>> filling_in_layout
   end
 
 end
